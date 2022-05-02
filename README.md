@@ -1,0 +1,1 @@
+The electron to charge ratio is an experiment that calculates the ratio of the electrons' charge to its massa. A beam of electrons are subjected to a magnetic field tha cause a shift in its direction.In this project we aim to use bash script to treat data and Root Cern to data visualization of the data measured in the modern physics' lab.
